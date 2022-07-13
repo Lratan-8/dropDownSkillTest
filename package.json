@@ -1,7 +1,4 @@
 {
-
-  "homepage": "https://Lratan-8.github.io/dropdownSkillTest.github.io/",
-
   "name": "react-dropdown",
 
   "version": "0.1.0",
@@ -29,10 +26,6 @@
   },
 
   "scripts": {
-
-    "predeploy": "npm run build",
-
-    "deploy": "gh-pages -d build",
 
     "start": "react-scripts start",
 
